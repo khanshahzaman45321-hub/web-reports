@@ -1,0 +1,17 @@
+/* External CSS */
+
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+}
+
+.external-heading {
+    color: purple;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.external-paragraph {
+    color: darkblue;
+    font-size: 18px;
+}
